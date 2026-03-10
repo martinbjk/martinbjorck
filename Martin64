@@ -696,7 +696,7 @@
       <h2>Ladda ner bild</h2>
       <p id="modalImageTitle">Köp denna bild via Swish och få en högupplöst fil direkt till dig.</p>
 
-      <span class="swish-number" id="swishNumber">123 456 78 90</span>
+      <span class="swish-number" id="swishNumber">0708977190</span>
       <p class="amount-suggestion">Föreslaget belopp: <strong>150–500 kr</strong></p>
 
       <ul class="modal-steps">
